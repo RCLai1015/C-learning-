@@ -23,7 +23,7 @@ int main(){
         }
     }
     for(k=0;k<n;k++){
-        printf("%d",sort[k]);
+        printf("%d\n",sort[k]);
     }
     return 0;
 }
